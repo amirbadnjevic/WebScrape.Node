@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/amirbadnjevic/WebScrape.Node/issues"
   },
-  "homepage": "https://github.com/amirbadnjevic/WebScrape.Node#readme"
+  "homepage": "https://github.com/amirbadnjevic/WebScrape.Node#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
